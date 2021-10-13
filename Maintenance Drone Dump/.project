@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Maintenance Drone.team</name>
+	<name>Maintenance Drone Dump</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -8,6 +8,5 @@
 	</buildSpec>
 	<natures>
 		<nature>org.polarsys.capella.project.nature</nature>
-		<nature>com.thalesgroup.mde.teamforcapella.project.nature</nature>
 	</natures>
 </projectDescription>
